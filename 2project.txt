@@ -5,3 +5,4 @@ addind the 4th line
 5th line from local working area
 5th line from remote
 fetch
+learning featch
